@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <style>
+        body {
+            background-color: #1e1e1e;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            text-align: center;
+            max-width: 600px;
+            padding: 20px;
+            background-color: #2b2b2b;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 0.5em;
+            color: #00bcd4;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mayukh Ganguli</h1>
+        <p><strong>Profession:</strong> a student studying in class 7</p>
+        <p><strong>Bio:</strong> I'm a 7th-grade student with a passion for programming and technology. I enjoy learning new coding languages and working on creative like creating a search engine for students. I am sure it will be a successful projects.</p>
+        <p><strong>Interests:</strong> Programming, reading science fiction, playing cricket, and exploring nature, playing football and listening to music.</p>
+    </div>
+</body>
+</html>
